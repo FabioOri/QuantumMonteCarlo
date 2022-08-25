@@ -1,5 +1,0 @@
-matplotlib==3.5.2
-numpy==1.22.2
-math==unknown
-random==unknown
-tqdm==4.64.0
